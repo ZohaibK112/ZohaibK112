@@ -37,7 +37,7 @@ Khan, Z., Garg, A., Tahir, A. B., & Hewage, P. *IEEE 12th International Conferen
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Emotion-Based Performance Monitoring Platform**](https://github.com/ZohaibK112/Emotion_detection_BERT_SFT_NEXT.js) | DeBERTa-v3 fine-tuned on Google GoEmotions, served through a secure full-stack app with JWT auth and OTP email verification. Sub-second inference and 99.9% uptime. The basis of my IEEE paper. | Transformers · FastAPI · Next.js · MongoDB Atlas · HF Spaces · Vercel |
+| [**Emotion-Based Performance Monitoring Platform**](https://github.com/ZohaibK112/Emotion_detection_BERT_SFT_NEXT.js) | DeBERTa-v3 fine-tuned on Google GoEmotions, served through a secure full-stack app with JWT auth and OTP email verification. Sub-second inference and 99.9% uptime. The basis of my IEEE paper. **[Live demo ↗](https://emotion-detection-bert-sft-next-js.vercel.app)** | Transformers · FastAPI · Next.js · MongoDB Atlas · HF Spaces · Vercel |
 | **Agentic Document Parsing & Extraction (RAG)** <!-- add repo link once public --> | Autonomous LLM agents that parse, reason over and extract structured data from complex PDFs with minimal human input. | LlamaIndex · LlamaParse · LlamaExtract · FastAPI · Pydantic |
 | [**Personalised Cold Email Generator**](https://github.com/ZohaibK112/Cold-email-generator-Langchain-chromadb) | Turns job postings into structured JSON, then writes tailored cold emails matched to the role's skills, with relevant portfolio links pulled from a vector store. | LangChain · ChromaDB · Llama 3.1 70B · Streamlit |
 | [**TOM: AI Voice Assistant**](https://github.com/ZohaibK112/TOM-A.I-ASSISTANCE-OS) | Voice-controlled assistant that handles YouTube, Google search and camera control through natural speech. | Python · SpeechRecognition · pyttsx3 · Streamlit |
@@ -88,11 +88,6 @@ Khan, Z., Garg, A., Tahir, A. B., & Hewage, P. *IEEE 12th International Conferen
 
 <!-- ============================  ACTIVITY  ============================ -->
 ## 📊 GitHub activity
-
-<!-- These cards come from free third-party services. If one ever shows an error, delete that <img> line. -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZohaibK112&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=3B82F6&text_color=8B949E" alt="Top languages" />
-</p>
 
 <!-- The snake is generated daily by .github/workflows/snake.yml. It appears after the workflow's first run. -->
 <p align="center">
