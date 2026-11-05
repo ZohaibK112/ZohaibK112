@@ -21,7 +21,7 @@ I'm an **AI Engineer** based in **Liverpool, UK**, with an **MSc in Artificial I
 
 - 🧠 **Focus:** LLMs · Agentic AI · RAG · NLP · model fine-tuning & evaluation
 - 📄 **Published:** first-author paper at **IEEE ICRITO 2025**
-- 💼 **Experience:** Data Science Intern at Midlife Runners · Junior Python Developer at THQ Developers
+- 💼 **Experience:** Data Science Intern at Midlife Runners · Python Developer at THQ Company
 - 🎯 **Looking for:** AI / ML Engineer roles in the UK
 - 📫 **Reach me:** [LinkedIn](https://www.linkedin.com/in/zohaib-khan-877611261/) or [email](mailto:zohaibukid@gmail.com)
 
@@ -50,7 +50,7 @@ Khan, Z., Garg, A., Tahir, A. B., & Hewage, P. *IEEE 12th International Conferen
 | Role | Where | Highlights |
 |---|---|---|
 | **Data Science Intern**<br /><sub>Dec 2024 – May 2025</sub> | Midlife Runners, Bolton, UK<br /><sub>via University of Greater Manchester</sub> | Built an NLP scoring system that turns free-text check-ins into mood, sleep, hydration and exercise metrics, with **80% accuracy** on emotional-state prediction. Received a university Certificate of Appreciation. |
-| **Junior Python Developer**<br /><sub>Dec 2022 – Apr 2024</sub> | THQ Developers, Karachi | Built and maintained production backend APIs in **FastAPI** and **Flask**, plus the integrations between frontend and backend. |
+| **Python Developer**<br /><sub>Dec 2021 – Apr 2024</sub> | THQ Company, Karachi | Built and maintained production backend APIs in **FastAPI** and **Flask**, plus the integrations between frontend and backend. |
 
 <!-- ============================  TECH STACK  ============================ -->
 ## 🛠️ Tech stack
